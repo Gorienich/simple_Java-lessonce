@@ -10,7 +10,7 @@ int num = in.nextInt();
 int digit = 0;
 while(num != 0) {
 	digit = num%10;
-	System.out.println(digit);
+	System.out.print(digit);
 	num/=10;
 }
 	}
