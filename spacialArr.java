@@ -36,7 +36,7 @@ System.out.println(CheckArr(arr2));
 		return true;
 	}
 /*
- * Q = 1 + n
+ * Q (n)
  * 
  * we know length 
  * but we have to go thrue array with "for"
