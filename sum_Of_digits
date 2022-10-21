@@ -11,6 +11,6 @@ public class Q1N1 {
 		sum+=num%10;                                   // save leftover in Sum
 		num/=10;                                       // drop out leftover and division number
 		}
-		System.out.println("the sum of digits is:  " + sum);  // output to user with answer
+		System.out.println("the sum of digits is:  " + sum);  // output  with answer
 	}
 }
