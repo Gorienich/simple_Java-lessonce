@@ -4,17 +4,11 @@ import java.util.Random;
    
 public class Test {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+{
 /*
  * all function have been checked use by your necessary
  */
-Random rnd = new Random();
-int [] check = new int[10];
-for (int i=0; i<check.length; i++) {
-	check[i] = rnd.nextInt(15) + 1;
-}
-printARR(check);
-devOdIndexARR(check);
 }
 	
 // function to create array from user 
